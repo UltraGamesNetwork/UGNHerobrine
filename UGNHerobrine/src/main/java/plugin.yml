@@ -1,0 +1,12 @@
+main: main.Main
+name: UGNHerobrine
+version: 1.14.4
+author: UnlimitedGamesNetwork
+description: Made by Ryanpower0507.
+api-version: 1.14
+
+commands:
+   warps:
+      description: Shows all available locations.
+   warp:
+      description: The warp command to travel between locations.
